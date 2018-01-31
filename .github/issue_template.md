@@ -15,7 +15,8 @@ forked from this repository):
 Confirm each of the following by checking the box.  This contribution:
 
 - [ ] does not violate the Terms of Service of any service it may interact with.
-- [ ] I agree to abide by [Open Plant Pathology's Code of Conduct](conduct.md)
+- [ ] I agree to abide by Open Plant Pathology's Code of Conduct,
+<https://github.com/openplantpathology/contributions/blob/master/.github/conduct.md>,
 during the review process and in providing any updates or modifications as
 necessary after publication.
 
