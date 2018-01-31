@@ -51,9 +51,9 @@ ensure consistent code indenting.
 - Follow a consistent code style when writing code, several are available, pick
 one and follow it through the entire post, here are two if you are unfamiliar:
   
-  - http://adv-r.had.co.nz/Style.html
+  - <http://adv-r.had.co.nz/Style.html>
   
-  - https://google.github.io/styleguide/Rguide.xml
+  - <https://google.github.io/styleguide/Rguide.xml>
   
 - Keep line lengths to <80 characters if at all possible to keep readability
 
