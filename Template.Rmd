@@ -37,3 +37,15 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Including equations uses LaTeX notation. To include an equation, wrap it in,
 `$$`, *e.g.* `$$y = ax + b$$` would display: $$y = ax + b$$. To display inline
 use a single `$`, *e.g*, $y$.
+
+Greek symbols are also supported using a "\" followed by the character spelled out.
+
+$$y_i \backsim Normal(\mu_i, \sigma)$$
+
+$$\mu_i = \alpha + \beta x_i$$
+
+$$\sigma \backsim Uniform(0, 1)$$
+
+$$\beta \backsim Normal(0, 10)$$
+
+$$\alpha \backsim Normal(0, 10)$$
