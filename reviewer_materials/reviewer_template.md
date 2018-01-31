@@ -13,6 +13,7 @@ The content meets the following criteria:
 - [ ] **Is unique**, the content presents new material or discussion is presented in the content.
 - [ ] **Clearly written and easily understandable**, the content is easily understood by a general audience.
 - [ ] **The code is clearly written and easy to understand**, there is no extra code and all code is described appropriately.
+- [ ] **Spelling and grammar are correct**, the content is free from major spelling and grammatical errors.
 - [ ] **The demonstrated code is a good illustration of the methods**, while other methods may exist, this is a good example and easy to follow.
 
 #### Final approval (post-review)

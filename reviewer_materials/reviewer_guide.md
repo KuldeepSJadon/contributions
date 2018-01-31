@@ -14,8 +14,11 @@ general comments addressing the following:
 - Does the content clearly state the objectives?
 - Does the content meet those objectives?
 - Is the content clearly written and understandable for a general audience?
+- Is the spelling and grammar correct? Using RStudio, spellcheck is avaialble in
+the toolbar, the "ABC ✓" button to the right of the "Save" icon.
 - Are there improvements that could be made to the code style?
   - Is the code clear and easy to understand?
+  - Is the code formatted in a consistent manner that is easy to follow?
   - Is there code duplication in the content that should be reduced?
   - Are the R packages used the best tools for the job or can you suggest others
   that may be more suitable?
