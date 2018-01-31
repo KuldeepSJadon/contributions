@@ -1,5 +1,11 @@
 # Open Plant Pathology Content Reviewer Guide
 
+Open Plant Pathology accepts content to be posted to the website,
+<https://www.openplantpathology.org/> that provide examples of teaching
+materials, reproducible research and other materials of interest to plant
+pathologists. To help ensure the quality of these materials, we ask that they be
+peer-reviewed by qualified members of the Open Plant Pathology community.
+
 To review content, please begin by copying our
 [reviewer template](reviewer_template.md), pasting it in your reply to the issue
 thread on GitHub and using it as a high-level checklist. We ask you provide
