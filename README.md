@@ -18,6 +18,8 @@ Fork this repository to your own account and edit this file appropriately,
 removing everything below line 8, "*Instructions for Use*" and deleting the
 "reviewer_materials" folder, if you wish.
 
+Update the "TITLE" header above to reflect the title of your post.
+
 A second file, [content_template.Rmd](content_template.Rmd), is provided for you
 to use to compose your content for Open Plant Pathology. Please edit that
 accordingly and rename it as you wish. Update the link above on line 12 to
