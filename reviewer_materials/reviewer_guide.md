@@ -6,10 +6,10 @@ materials, reproducible research and other materials of interest to plant
 pathologists. To help ensure the quality of these materials, we ask that they be
 peer-reviewed by qualified members of the Open Plant Pathology community.
 
-To review content, please begin by copying our
-[reviewer template](reviewer_template.md), pasting it in your reply to the issue
-thread on GitHub and using it as a high-level checklist. We ask you provide
-general comments addressing the following:
+To review content, please begin by copying the raw version (not the rendered
+markdown) of our [reviewer template](reviewer_template.md), pasting it in your
+reply to the issue thread on GitHub and using it as a high-level checklist. We
+ask you provide general comments addressing the following:
 
 - Does the content clearly state the objectives?
 - Does the content meet those objectives?
