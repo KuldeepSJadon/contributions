@@ -6,6 +6,8 @@ author:
 - name: Your Second Co-Author's Name Here
   affiliation: Your Second Co-Author's Affiliation Here
 output: html_document
+bibliography: bibliography.bib
+csl: phytopathology.csl
 ---
 
 ```{r setup, include=FALSE}
