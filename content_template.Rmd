@@ -88,3 +88,12 @@ $$\sigma \backsim Uniform(0, 1)$$
 $$\beta \backsim Normal(0, 10)$$
 
 $$\alpha \backsim Normal(0, 10)$$
+
+# Reproducibility
+
+```{r reproducibility, echo=FALSE}
+devtools::session_info()
+```
+
+# References
+
