@@ -23,6 +23,7 @@ the toolbar, the "ABC ✓" button to the right of the "Save" icon.
   - Is there code duplication in the content that should be reduced?
   - Are the R packages used the best tools for the job or can you suggest others
   that may be more suitable?
+  - Are all materials properly cited, this includes R packages?
 
 Please be respectful and kind to the authors in your reviews. Our
 [code of conduct](https://github.com/openplantpathology/contributions/blob/master/.github/conduct.md)
