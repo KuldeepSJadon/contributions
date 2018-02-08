@@ -24,6 +24,9 @@ code and all code is described appropriately.
 spelling and grammatical errors.
 - [ ] **The demonstrated code is a good illustration of the methods**, while
 other methods may exist, this is a good example and easy to follow.
+- [ ] **Materials and R Packages are all Properly Cited**, the author has
+provided references for all materials and R packages used in a
+bibliography.bib file and references section of the post.
 
 #### Final approval (post-review)
 
