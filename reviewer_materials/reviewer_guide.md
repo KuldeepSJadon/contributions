@@ -23,6 +23,8 @@ the toolbar, the "ABC ✓" button to the right of the "Save" icon.
   - Is there code duplication in the content that should be reduced?
   - Are the R packages used the best tools for the job or can you suggest others
   that may be more suitable?
+  - Are the packages used mostly available from CRAN? Some specialised packages may
+  be installed from other sources, but preference should be given to CRAN.
   - Are all materials properly cited, this includes R packages?
 
 Please be respectful and kind to the authors in your reviews. Our
