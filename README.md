@@ -9,8 +9,7 @@ peer-reviewed by qualified members of the Open Plant Pathology community. This
 repository contains the Rmd file for the “TITLE”, which is posted to Open
 Plant Pathology as a blog post on XX/XX/20XX.
 
-The [XXXXX.Rmd](XXXX.Rmd) file contains the markdown, which was reviewed by XXX
-and XXXX and generated the content of the blog post.
+The [content.Rmd](content.Rmd) file contains the markdown, which was reviewed by XXXX and XXXX and generated the content of the blog post.
 
 ## Instructions for Use
 
