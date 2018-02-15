@@ -1,4 +1,4 @@
-  ---
+---
 title: "Your Title Here"
 author:
 - name: Your Name Here
