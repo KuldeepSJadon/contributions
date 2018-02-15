@@ -1,10 +1,10 @@
 ---
-title: "Your Title Here"
+title: "Title Here"
 author:
 - name: Your Name Here
   affiliation: Your Affiliation Here
-- name: Your Second Co-Author's Name Here
-  affiliation: Your Second Co-Author's Affiliation Here
+- name: Your Co-Author's Name Here
+  affiliation: Your Co-Author's Affiliation Here
 output:
   blogdown::html_page:
     highlight: tango
@@ -35,7 +35,7 @@ summary(cars)
 ## Spelling
 
 Please ensure that you have made sufficient efforts to ensure that you have used
-proper spelling. Using RStudio, spellcheck is avaialble in the toolbar, the
+proper spelling. Using RStudio, spell check is available in the tool bar, the
 "ABC ✓" button to the right of the "Save" icon.
 
 ## Code Formatting
@@ -47,7 +47,7 @@ proper spelling. Using RStudio, spellcheck is avaialble in the toolbar, the
 
 - Functions should be referred to using "()" after, e.g. `ggplot()`
 
-- Function parameters should be referred to as inline code where necessary,
+- Function parameters should be referred to as in-line code where necessary,
 e.g., `aes`.
 
 - Using RStudio highlight code chunks and use "Code > Reindent Lines" to help
@@ -76,7 +76,7 @@ printing of the R code that generated the plot.
 ## Including Mathematical Equations
 
 Including equations uses LaTeX notation. To include an equation, wrap it in,
-`$$`, *e.g.* `$$y = ax + b$$` would display: $$y = ax + b$$. To display inline
+`$$`, *e.g.* `$$y = ax + b$$` would display: $$y = ax + b$$. To display in-line
 use a single `$`, *e.g*, $y$.
 
 Greek symbols are also supported using a "\" followed by the character spelled
@@ -94,8 +94,13 @@ $$\alpha \backsim Normal(0, 10)$$
 
 # Reproducibility
 
+This section will automatically list your R session information.
+
 ```{r reproducibility, echo=FALSE}
 devtools::session_info()
 ```
 
 # References
+
+Any references found in the [bibliography.bib](bibliography.bib) file will
+automatically be listed in this section.
