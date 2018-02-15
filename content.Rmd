@@ -98,4 +98,3 @@ devtools::session_info()
 ```
 
 # References
-
