@@ -7,6 +7,7 @@ author:
   affiliation: Your Second Co-Author's Affiliation Here
 output:
   blogdown::html_page:
+    highlight: tango
     df_print: paged
 bibliography: bibliography.bib
 csl: phytopathology.csl
